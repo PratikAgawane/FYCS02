@@ -1,1 +1,3 @@
 # FYCS02
+Hello...
+I am learning Github
